@@ -1,9 +1,6 @@
-bin
-gen
-*.jar
-*.class
-project.properties
-.classpath
-.classpath.orig
-*.DS_Store
-.settings/org.eclipse.jdt.core.prefs
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
