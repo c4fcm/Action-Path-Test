@@ -1,7 +1,0 @@
-In order to build, you need to get the latest version of opencsv:
-
-opencsv.sourceforge.net
-
-- copy the jarfile from deploy/opencsv-2.3.jar to libs
-
-- within Eclipse, option-click on the file and add it to your build path
